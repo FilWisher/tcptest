@@ -1,3 +1,5 @@
+// Borrowing from https://golang.org/pkg/net/http/httptest
+
 package tcptest
 
 import (
